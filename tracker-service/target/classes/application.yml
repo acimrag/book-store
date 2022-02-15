@@ -1,0 +1,25 @@
+server:
+  port: 8083
+
+logging:
+  level:
+    root: DEBUG
+
+spring:
+  application:
+    name: tracker-service
+  data:
+    mongodb:
+      database: trackerdb
+      port: '27017'
+      host: localhost
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+    registerWithEureka: true
+    fetchRegistry: true
+    enabled: true
+  instance:
+    prefer-ip-address: false

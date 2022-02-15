@@ -1,0 +1,25 @@
+server:
+  port: 8081
+
+logging:
+  level:
+    root: DEBUG
+
+spring:
+  application:
+    name: stock-service
+  data:
+    mongodb:
+      database: stockdb
+      port: '27017'
+      host: localhost
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+    registerWithEureka: true
+    fetchRegistry: true
+    enabled: true
+  instance:
+    prefer-ip-address: false

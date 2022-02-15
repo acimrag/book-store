@@ -1,0 +1,10 @@
+/Users/r2d2/Desktop/book-store/book-stock-service/src/main/java/com/buythebook/bookstore/bookstockservice/repository/BookRepository.java
+/Users/r2d2/Desktop/book-store/book-stock-service/src/main/java/com/buythebook/bookstore/bookstockservice/dto/response/BookStockResponse.java
+/Users/r2d2/Desktop/book-store/book-stock-service/src/main/java/com/buythebook/bookstore/bookstockservice/service/BookStockService.java
+/Users/r2d2/Desktop/book-store/book-stock-service/src/main/java/com/buythebook/bookstore/bookstockservice/dto/response/RestErrorResponse.java
+/Users/r2d2/Desktop/book-store/book-stock-service/src/main/java/com/buythebook/bookstore/bookstockservice/handler/RestExceptionHandler.java
+/Users/r2d2/Desktop/book-store/book-stock-service/src/main/java/com/buythebook/bookstore/bookstockservice/controller/BookStockController.java
+/Users/r2d2/Desktop/book-store/book-stock-service/src/main/java/com/buythebook/bookstore/bookstockservice/model/BookStock.java
+/Users/r2d2/Desktop/book-store/book-stock-service/src/main/java/com/buythebook/bookstore/bookstockservice/dto/request/CreateBookRequest.java
+/Users/r2d2/Desktop/book-store/book-stock-service/src/main/java/com/buythebook/bookstore/bookstockservice/BookStockServiceApplication.java
+/Users/r2d2/Desktop/book-store/book-stock-service/src/main/java/com/buythebook/bookstore/bookstockservice/dto/response/SuccessResponse.java

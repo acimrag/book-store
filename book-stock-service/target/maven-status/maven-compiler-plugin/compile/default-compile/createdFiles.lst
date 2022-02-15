@@ -1,0 +1,13 @@
+com/buythebook/bookstore/bookstockservice/dto/response/BookStockResponse.class
+com/buythebook/bookstore/bookstockservice/dto/response/RestErrorResponse$RestErrorResponseBuilder.class
+com/buythebook/bookstore/bookstockservice/model/BookStock$BookStockBuilder.class
+com/buythebook/bookstore/bookstockservice/dto/request/CreateBookRequest.class
+com/buythebook/bookstore/bookstockservice/handler/RestExceptionHandler.class
+com/buythebook/bookstore/bookstockservice/model/BookStock.class
+com/buythebook/bookstore/bookstockservice/BookStockServiceApplication.class
+com/buythebook/bookstore/bookstockservice/dto/response/RestErrorResponse.class
+com/buythebook/bookstore/bookstockservice/service/BookStockService.class
+com/buythebook/bookstore/bookstockservice/repository/BookRepository.class
+com/buythebook/bookstore/bookstockservice/dto/response/SuccessResponse.class
+com/buythebook/bookstore/bookstockservice/controller/BookStockController.class
+com/buythebook/bookstore/bookstockservice/dto/response/BookStockResponse$BookStockResponseBuilder.class

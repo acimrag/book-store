@@ -1,0 +1,14 @@
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/RecommendationServiceApplication.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/dto/response/BookStockResponse.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/handler/RestExceptionHandler.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/dto/response/SuccessResponse.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/feign/TrackFeignClient.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/feign/StockFeignClient.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/dto/response/RestErrorResponse.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/service/common/BookStockTrack.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/service/RecommendationService.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/engine/impl/BestPriceRecommender.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/dto/response/BookTrackResponse.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/dto/response/RecommendationResponse.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/controller/RecommendationController.java
+/Users/r2d2/Desktop/book-store/recommendation-service/src/main/java/com/buythebook/bookstore/recommendationservice/engine/Recommender.java

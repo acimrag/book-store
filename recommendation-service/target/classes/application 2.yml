@@ -1,0 +1,30 @@
+server:
+  port: 8082
+
+logging:
+  level:
+    root: DEBUG
+
+application:
+  recommender:
+    bestprice:
+      maxcount: 5
+
+spring:
+  application:
+    name: recommendation-service
+  data:
+    mongodb:
+      database: recommendationdb
+      port: '27017'
+      host: localhost
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+    registerWithEureka: true
+    fetchRegistry: true
+    enabled: true
+  instance:
+    prefer-ip-address: false
